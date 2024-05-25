@@ -1,0 +1,34 @@
+{
+  "name": "majorproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "ipfs-http-client": "^56.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.2",
+    "morgan": "*",
+    "web3": "^1.7.3"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhagyashree-rao/majorProject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bhagyashree-rao/majorProject/issues"
+  },
+  "homepage": "https://github.com/bhagyashree-rao/majorProject#readme",
+  "description": ""
+}
