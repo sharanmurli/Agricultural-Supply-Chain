@@ -35,3 +35,12 @@ The current agricultural supply chain is a centralized system with numerous issu
 - **Frontend**: HTML, CSS, JavaScript
 - **Blockchain**: Hyperledger Fabric
 
+## Publication
+
+This project has been published in the UGC Care Approved, Peer Reviewed and Referred Journal **Samriddhi: A Journal of Physical Sciences, Engineering and Technology**. 
+
+**Paper Title**: Agricultural Supply System with Permissioned Networks through Hyperledger Framework  
+**Authors**: Sharan Murli, Bhagyashree Rao, Nikhil Sabe, Kalyani Pampattiwar  
+**Volume**: 14, Issue 5, October - December 2022  
+**Impact Factor**: 6.6
+
